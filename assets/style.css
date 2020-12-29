@@ -3,7 +3,7 @@ body {
     position: relative;
     background: #1b1b1b;
     color: #fff;
-    font-family: "SF Compact Display";
+    font-family: "SF Compact Display", Arial, sans-serif;
     overflow-x: hidden;
 }
 /*
@@ -204,7 +204,7 @@ h1 {
 }
 .columns > p {
     align-self: flex-end;
-    font: normal normal 300 16px/24px "SF Pro Display", Arial, sans-serif;
+    font: normal normal 300 16px/24px "SF Compact Display", Arial, sans-serif;
     padding: 0 24px 24px;
     margin: 0;
 }
@@ -264,7 +264,7 @@ h1 {
 }
 .medida-office .title {
     padding-bottom: 32px;
-    font: normal normal normal 18px/1.5em "SF Pro Display", Arial, sans-serif;
+    font: normal normal normal 18px/1.5em "SF Compact Display", Arial, sans-serif;
     letter-spacing: 0px;
     text-align: left;
 }
@@ -320,13 +320,13 @@ h1 {
     margin-bottom: 40px;
 }
 .medida-office .slide span {
-    font: normal normal medium 12px/1.5em "SF Pro Display", Arial, sans-serif;
+    font: normal normal medium 12px/1.5em "SF Compact Display", Arial, sans-serif;
     letter-spacing: 1.08px;
     color: #66FF66;
 }
 .medida-office .slide p {
     margin-top: 10px;
-    font: normal normal normal 16px/1.5em "SF Pro Display", Arial, sans-serif;
+    font: normal normal normal 16px/1.5em "SF Compact Display", Arial, sans-serif;
     letter-spacing: 0px;
 }
 @media screen and (min-width:768px) {
